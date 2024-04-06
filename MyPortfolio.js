@@ -258,7 +258,6 @@ const MyProtfolio = () => {
           </div>
           <div id="Contact">
             <div>
-              {" "}
               <p id="form-head">Contact form</p>
               <form onSubmit={onSubmit} id="form">
                 <label id="label-1">Name</label>

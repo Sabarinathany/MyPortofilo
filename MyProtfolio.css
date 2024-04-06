@@ -722,9 +722,11 @@ body {
   width: 45%;
 }
 #contact {
-  position: absolute;
-  left: 260px;
-  top: 427%;
+  /* position: absolute; */
+  /* left: 260px;
+  top: 437%; */
+  margin-left: 200px;
+  margin-top: -250px;
   width: 500px;
 }
 #input-1 {
